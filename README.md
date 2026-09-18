@@ -93,8 +93,7 @@ someone stranded is the hard 80%.
   report success on writes that were silently rejected. Every write is
   independently re-confirmed against the source of truth afterward.
 
-## Real bugs found building this (the part recruiters usually skip, and
-## the part I actually learned the most from)
+## Real bugs found building this (the part I actually learned the most from)
 
 - **Silent pagination gap.** An early version of the occupancy fetch
   only read the first page of results from a paginated endpoint. Units

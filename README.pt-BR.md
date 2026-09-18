@@ -101,8 +101,7 @@ ninguém esquecido silenciosamente é os 80% difíceis.
   é reconfirmada, de forma independente, contra a fonte da verdade
   depois.
 
-## Bugs reais encontrados construindo isso (a parte que recrutador
-## costuma pular, e a parte que eu mais aprendi)
+## Bugs reais encontrados construindo isso (a parte que eu mais aprendi)
 
 - **Buraco silencioso de paginação.** Uma versão inicial da busca de
   ocupação só lia a primeira página de resultados de um endpoint
